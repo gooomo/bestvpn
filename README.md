@@ -74,28 +74,40 @@ Hello大家好，本期**好用的梯子**测评推荐的主角是西部世界�
 
 **测试一：**
 我的本地环境：70M广电网络
+
 测试时间：晚上8点35分
+
 测试节点：年费日本高速节点
+
 ![image](https://github.com/yourkind/review/blob/main/11.jpg)
 
 1080p的视频无压力，缓冲条进度也很快，这梯子的速度还是可以的。
 
 **测试二：**
 本地网络环境：移动4G网络
+
 测试时间：晚上9点04分
+
 测试节点：年费日本高速节点
+
 ![image](https://github.com/yourkind/review/blob/main/12.jpg)
 
 **测速三：**
 本地网络环境：70M广电网络WIFI
+
 测试时间：早上7点28分
+
 测试节点：年费日本高速节点
+
 ![image](https://github.com/yourkind/review/blob/main/13.jpg)
 
 **测速四：**
 本地网络环境：70M广电网络
+
 测试时间：早上7点42分
+
 测试节点：年费日本高速节点
+
 ![image](https://github.com/yourkind/review/blob/main/14.jpg)
 可以看到1080p基本能够跑到两万多kb/s，因为我的带宽是70M，如果本地宽带是100M的话应该还能跑到更高。
 
