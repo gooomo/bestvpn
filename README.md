@@ -3,7 +3,7 @@
 
 Hello大家好，本期**好用的梯子**测评推荐的主角是西部世界（westworld VPN）,相信大家应该都有过寻找稳定梯子的经历，对这款梯子也肯定并不陌生，先给大家看下它的官网：
 
-官网地址：[点击访问官网](https://xbsj4621.fun/i/sg017)
+官网地址：[点击访问官网](https://www.whjpmc.com/share.html?channel=s3)
 
 ![image](https://i.loli.net/2021/03/11/t3NJHnvYMTzArOX.jpg)
 
